@@ -1,0 +1,122 @@
+﻿  pch.cpp
+  DSplit.cpp
+  DSplitDoc.cpp
+  DSplitView.cpp
+  DynSplitterWnd.cpp
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(31,1): error C2653: “CDynSplitterWnd”: 不是类或命名空间名称
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(32,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(33,1): error C2550: “CDynSplitterWnd”: 构造函数初始值设定项列表只能在构造函数定义中使用
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(34,1): warning C4508: “CDynSplitterWnd”: 函数应返回一个值；假定“void”返回类型
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(36,1): error C2653: “CDynSplitterWnd”: 不是类或命名空间名称
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(36,19): error C2523: “<未知>::~CDynSplitterWnd”: 析构函数 标记不匹配
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(37,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(36,34): error C2084: 函数“int CDynSplitterWnd(void)”已有主体
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(31): message : 参见“CDynSplitterWnd”的前一个定义
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(41,6): error C2653: “CDynSplitterWnd”: 不是类或命名空间名称
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(43,6): error C2065: “m_bDynSplit”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(44,37): error C2248: “CSplitterWnd::OnInvertTracker”: 无法访问 protected 成员(在“CSplitterWnd”类中声明)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxext.h(641): message : 参见“CSplitterWnd::OnInvertTracker”的声明
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxext.h(584): message : 参见“CSplitterWnd”的声明
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(44,17): error C2352: “CSplitterWnd::OnInvertTracker”: 非静态成员函数的非法调用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxext.h(641): message : 参见“CSplitterWnd::OnInvertTracker”的声明
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(49,6): error C2653: “CDynSplitterWnd”: 不是类或命名空间名称
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(51,6): error C2065: “m_bDynSplit”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(53,33): error C2248: “CSplitterWnd::StartTracking”: 无法访问 protected 成员(在“CSplitterWnd”类中声明)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxext.h(731): message : 参见“CSplitterWnd::StartTracking”的声明
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxext.h(584): message : 参见“CSplitterWnd”的声明
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(53,17): error C2352: “CSplitterWnd::StartTracking”: 非静态成员函数的非法调用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include\afxext.h(731): message : 参见“CSplitterWnd::StartTracking”的声明
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(57,2): error C2355: “this”: 只能在非静态成员函数或非静态数据成员初始值设定项的内部引用
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(58,12): error C2065: “noHit”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(62,16): error C2065: “m_rectLimit”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(62,2): error C3861: “GetInsideRect”: 找不到标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(64,12): error C2065: “splitterIntersection1”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(64,43): error C2065: “splitterIntersection225”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(67,19): error C2065: “splitterIntersection1”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(68,19): error C2065: “splitterIntersection1”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(70,20): error C2065: “vSplitterBar1”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(70,35): error C2065: “m_rectTracker”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(70,3): error C3861: “GetHitRect”: 找不到标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(71,22): error C2065: “m_ptTrackOffset”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(72,3): error C2065: “m_bTracking2”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(73,20): error C2065: “hSplitterBar1”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(73,35): error C2065: “m_rectTracker2”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(73,3): error C3861: “GetHitRect”: 找不到标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(74,3): error C2065: “m_ptTrackOffset”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(76,17): error C2065: “bothSplitterBox”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(79,14): error C2065: “vSplitterBox”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(79,28): error C2065: “m_rectTracker”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(79,3): error C3861: “GetHitRect”: 找不到标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(80,22): error C2065: “m_ptTrackOffset”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(81,3): error C2065: “m_bTracking2”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(82,14): error C2065: “hSplitterBox”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(82,28): error C2065: “m_rectTracker2”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(82,3): error C3861: “GetHitRect”: 找不到标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(83,3): error C2065: “m_ptTrackOffset”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(86,3): error C2065: “m_rectTracker”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(86,31): error C2065: “m_rectLimit”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(87,3): error C2065: “m_rectTracker2”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(87,29): error C2065: “m_rectLimit”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(92,18): error C2065: “m_rectTracker”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(92,3): error C3861: “GetHitRect”: 找不到标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(96,13): error C2660: “SetCapture”: 函数不接受 0 个参数
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(6928,1): message : 参见“SetCapture”的声明
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(99,2): error C2065: “m_bTracking”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(100,2): error C2065: “m_htTrack”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(101,2): error C3861: “SetSplitCursor”: 找不到标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(105,6): error C2653: “CDynSplitterWnd”: 不是类或命名空间名称
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(107,2): error C2355: “this”: 只能在非静态成员函数或非静态数据成员初始值设定项的内部引用
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(109,7): error C2065: “m_bTracking”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(115,18): error C2065: “m_rectTracker”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(116,6): error C2065: “m_bTracking2”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(117,19): error C2065: “m_rectTracker2”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(118,2): error C2065: “m_bTracking”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(118,16): error C2065: “m_bTracking2”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(121,25): error C3861: “GetActivePane”: 找不到标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(125,2): error C2065: “m_rectTracker”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(126,2): error C2065: “m_rectTracker2”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(130,7): error C2065: “m_htTrack”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(130,20): error C2065: “vSplitterBox”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(132,13): error C2065: “m_rectTracker”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(132,4): error C3861: “SplitRow”: 找不到标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(134,12): error C2065: “m_htTrack”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(134,25): error C2065: “vSplitterBar1”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(134,42): error C2065: “m_htTrack”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(134,55): error C2065: “vSplitterBar15”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(137,17): error C2065: “m_rectTracker”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(137,36): error C2065: “m_htTrack”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(137,48): error C2065: “vSplitterBar1”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(137,4): error C3861: “TrackRowSize”: 找不到标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(138,4): error C3861: “RecalcLayout”: 找不到标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(140,12): error C2065: “m_htTrack”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(140,25): error C2065: “hSplitterBox”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(142,16): error C2065: “m_rectTracker”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(142,4): error C3861: “SplitColumn”: 找不到标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(144,12): error C2065: “m_htTrack”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(144,25): error C2065: “hSplitterBar1”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(144,42): error C2065: “m_htTrack”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(144,55): error C2065: “hSplitterBar15”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(147,20): error C2065: “m_rectTracker”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(147,40): error C2065: “m_htTrack”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(147,52): error C2065: “hSplitterBar1”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(147,4): error C3861: “TrackColumnSize”: 找不到标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(148,4): error C3861: “RecalcLayout”: 找不到标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(150,12): error C2065: “m_htTrack”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(150,25): error C2065: “splitterIntersection1”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(151,4): error C2065: “m_htTrack”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(151,17): error C2065: “splitterIntersection225”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(154,15): error C2065: “m_htTrack”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(154,27): error C2065: “splitterIntersection1”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(155,15): error C2065: “m_htTrack”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(155,27): error C2065: “splitterIntersection1”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(157,17): error C2065: “m_rectTracker”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(157,4): error C3861: “TrackRowSize”: 找不到标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(158,20): error C2065: “m_rectTracker2”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(158,4): error C3861: “TrackColumnSize”: 找不到标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(159,4): error C3861: “RecalcLayout”: 找不到标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(161,12): error C2065: “m_htTrack”: 未声明的标识符
+D:\数字图像处理重新\DigitalImage\DSplit\DynSplitterWnd.cpp(161,11): fatal error C1003: 错误计数超过 100；正在停止编译
+  DynSplitView2.cpp
+  MainFrm.cpp
+  STDAFX.CPP
+  正在生成代码...
